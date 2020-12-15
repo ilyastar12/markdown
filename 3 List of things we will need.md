@@ -41,3 +41,5 @@ The repo is here: https://github.com/IBM/cp4i-demos
 In this way, if you want to redo this lab in your own environment you can use the assets that you need. 
 
 Also, if you are using one-click install API Connect and App Connect assets will be available to you via Asset Repository. 
+
+![](https://github.com/ilyastar12/markdown/blob/main/img/Picture2.png)
