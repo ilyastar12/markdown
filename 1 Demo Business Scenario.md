@@ -20,7 +20,7 @@ This solution shows how IBM Watson Assistant on IBM cloud can be used together w
 
 Three separate APIs which are independently deployable and scalable are brought together to support chatbot application. These APIs also leverages IBM Watson Visual Recognition and IBM's Weather service using built-in connectors.
 
-![img](picture1)
+![](https://github.com/ilyastar12/markdown/blob/main/img/Picture1.png)
 
 1.	The user visits the insurance company’s site with the storm insurance chatbot application to raise a storm claim.
 2.	The chat application calls IBM Watson Assistant hosted in IBM Cloud.
